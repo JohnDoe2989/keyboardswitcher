@@ -1,0 +1,16 @@
+# Папки сборки PyInstaller (без точек в начале!)
+build/
+dist/
+*.spec
+
+# Скомпилированный код Python (кэш)
+__pycache__/
+*.py[cod]
+
+# Иконки (указываем конкретные файлы)
+icon.ico
+icon_preview.png
+
+# IDE
+.vscode/
+.idea/
