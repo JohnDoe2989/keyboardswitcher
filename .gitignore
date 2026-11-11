@@ -8,8 +8,8 @@ __pycache__/
 *.py[cod]
 
 # Иконки (указываем конкретные файлы)
-icon.ico
-icon_preview.png
+# icon.ico
+# icon_preview.png
 
 # IDE
 .vscode/
